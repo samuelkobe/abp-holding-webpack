@@ -1,6 +1,6 @@
 {
   "name": "ABP-Holding-Webpack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Holding page template.",
   "private": true,
   "scripts": {
