@@ -19,7 +19,7 @@ module.exports = {
         use: 'babel-loader'
       },
       {
-        test: /\.(png|jpg|gif|mp4|webm|ogv)$/,
+        test: /\.(png|jpg|gif|mp4|webm|ogv|webp)$/,
         use: [
           {
             loader: 'file-loader',
